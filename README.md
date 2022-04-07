@@ -8,7 +8,7 @@ Diary Library (DL) is a simple to use, feature rich, and privacy focused note ta
 
 - [Iter 0 + 1](https://github.com/BUMETCS673/BUMETCS673OLF21P3/issues?q=is%3Aissue+is%3Aclosed+project%3ABUMETCS673%2FBUMETCS673OLF21P3%2F2)
 - [Iter 2](https://github.com/BUMETCS673/BUMETCS673OLF21P3/issues?q=is%3Aissue+is%3Aclosed+project%3ABUMETCS673%2FBUMETCS673OLF21P3%2F3)
-- [Iter 3](TBD) - Coming Soon
+- [Iter 3](TBD)
 
 ### Installation
 
