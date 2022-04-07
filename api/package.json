@@ -1,0 +1,37 @@
+{
+    "name": "api",
+    "version": "0.1.0",
+    "description": "The backend module for the DL application.",
+    "main": "server.js",
+    "engines": {
+        "node": "14.x",
+        "npm": "6.14.10"
+    },
+    "scripts": {
+        "cloud": "node server.js cloud",
+        "local": "node server.js local",
+        "start": "node server.js",
+        "testing": "node server.js test",
+        "test": "npx mocha ./test/automated/run-all-tests.js"
+    },
+    "type": "module",
+    "keywords": [
+        "express",
+        "backend",
+        "layer"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "chai": "^4.3.4",
+        "chai-http": "^4.3.0",
+        "cookie-parser": "^1.4.5",
+        "cors": "^2.8.5",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "jsonwebtoken": "^8.5.1",
+        "mocha": "^9.1.2",
+        "multer": "^1.4.3",
+        "nodemon": "^2.0.12"
+    }
+}

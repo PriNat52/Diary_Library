@@ -1,0 +1,22 @@
+{
+    "name": "database",
+    "version": "0.1.0",
+    "description": "The database module for the DL application.",
+    "main": "database.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "type": "module",
+    "keywords": [
+        "database",
+        "mongo",
+        "layer"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^10.0.0",
+        "bcryptjs": "^2.4.3",
+        "mongoose": "^6.0.5"
+    }
+}
